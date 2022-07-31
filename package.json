@@ -1,0 +1,22 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "this is abc repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amrutakokane/abc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amrutakokane/abc/issues"
+  },
+  "homepage": "https://github.com/Amrutakokane/abc#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
